@@ -131,5 +131,3 @@ FEIJAO 234 8.3 13 12 2023
 OBSERVAÇÃO:
 
 Ao final, o programa deve esvaziar a memória, eliminando assim todos os itens alocados.
-
-Universidade Estadual do Norte do Paraná - UENP
