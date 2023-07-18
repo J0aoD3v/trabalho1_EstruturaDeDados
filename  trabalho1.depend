@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1689624500 source:d:\arquivos\downloads\trabalhofelix\ trabalho1\estoque.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estoque.h"
+
+1689625030 source:d:\arquivos\downloads\trabalhofelix\ trabalho1\trabalho1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estoque.h"
+
+1689626003 source:d:\arquivos\downloads\trabalhofelix\ trabalho1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1689626071 d:\arquivos\downloads\trabalhofelix\ trabalho1\estoque.h
+
