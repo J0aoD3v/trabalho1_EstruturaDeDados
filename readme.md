@@ -89,7 +89,7 @@ Lista* OrdenaListaVencimento(Lista* p);
 # 5.1 O Programa Testador (trabalho1.c)
 
 O programa testador deverá ser capaz de ler as instruções do arquivo texto de entrada e realizar as devidas operações no TAD estoque. O seu programa (trabalho1.c) deverá ler os dados de entrada a partir de um arquivo de entrada ("entrada.txt"). O arquivo de entrada é basicamente uma lista de comandos (um por linha) em formato de texto. O último comando é a palavra "FIM", que indica o final do arquivo. O formato a ser usado é exemplificado abaixo:
-```c
+```c 
 PRODUTO ARROZ 123 18.3 12 12 2023
 PRODUTO FEIJAO 234 8.3 13 12 2023
 PRODUTO PAO_DE_FORMA 114 7.0 23 06 2023
@@ -107,7 +107,7 @@ IMPRIME_LISTA
 FIM
 ```
 E como saída esperada, um arquivo de texto ("saida.txt"), com as seguintes mensagens:
-```c
+```c 
 PRODUTO ARROZ 123 ADICIONADO
 PRODUTO FEIJAO 234 ADICIONADO
 PRODUTO PAO_DE_FORMA 114 ADICIONADO
